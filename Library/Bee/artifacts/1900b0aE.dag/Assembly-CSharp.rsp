@@ -368,6 +368,7 @@
 -analyzer:"D:/unity/editor/2022.3.42f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/unity/editor/2022.3.42f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Course Library/_Source_Files/Scripts/DestroyAfterDelay.cs"
+"Assets/Scripts/DifficultyButton.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Target.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
